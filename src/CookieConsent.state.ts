@@ -30,7 +30,7 @@ export const defaultState: CookieConsentState = {
     cursor: "pointer",
     flex: "0 0 auto",
     padding: "5px 10px",
-    margin: "15px",
+    margin: "15px 15px 15px 5px",
   },
   declineButtonStyle: {
     background: "#c12a2a",
